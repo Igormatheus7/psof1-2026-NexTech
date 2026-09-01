@@ -1,1 +1,10 @@
+# Arquivo local de variáveis de ambiente - NÃO COMITAR NO GITHUB
+PORT=3000
+NODE_ENV=production
 
+# Conexão com o Banco Cloud (AWS RDS)
+DB_HOST=aws-us-east-1.awsrds.com
+DB_PORT=5432
+DB_USER=admin_merreis clinic
+DB_PASSWORD=Ratata123
+DB_NAME=merreis clinic_db
